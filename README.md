@@ -1,8 +1,8 @@
 # Note Taker
 
 An application called Note Taker that can be used to write and save notes.
-The app uses an Express.js back end and will save and retrieve user generated note data from a JSON file.
-The code was pushed up to heroku to host the application its cloud
+The app uses the Express.js framework which will save and retrieve user generated note data from a JSON file.
+The code was pushed up to heroku to host the application on its cloud
 
 ## Built With
 
