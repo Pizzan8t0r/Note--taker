@@ -1,0 +1,26 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "## Built With - HTML - CSS - Bootstrap  - JavaScript - Node.js   - Express.js   - Uniqid",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pizzan8t0r/Note-taker"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pizzan8t0r/Note-taker"
+  },
+  "homepage": "https://github.com/Pizzan8t0r/Note-taker",
+  "dependencies": {
+    "express": "^4.18.1",
+    "node.js": "^0.0.1-security",
+    "uniqid": "^5.4.0",
+    "uniquid": "^1.1.4"
+  }
+}
