@@ -14,7 +14,7 @@ The code was pushed up to heroku to host the application its cloud
 ## Install
 
 Clone project.
-Run the following line of code in your terminal to install all the needed packages:
+Run the following line of code in your terminal to install the required packages:
 
 ```
 npm i
